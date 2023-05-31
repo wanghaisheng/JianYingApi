@@ -1,5 +1,7 @@
 # JianYing-Api 第三方剪映Api  
-![JianYing Latest](https://img.shields.io/badge/JianYing-latest-blue.svg) 通过uiautomation实现  
+![JianYing Latest](https://img.shields.io/badge/JianYing-latest-blue.svg) 
+
+通过 flybirds 实现  
 
 ```python
 import Drafts  , uuid
